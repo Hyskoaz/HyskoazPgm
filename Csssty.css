@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+.txtMemname {
+			
+			color: #E96F71;
+			font-size: 80px;
+			font-family: 'kanit';		
+		}
+
+		.txtMemnamex2{
+			color: #FFAAAC;
+			font-family: 'kanit';
+			font-size: 60px;
+		}
+		.txtMemnamex3{
+			color: #FFAAAC;
+			font-family: 'kanit';
+			font-size: 35px;
+				
+		}
+		.txtMemnamex4{
+			color: #E96F71;
+			font-family: 'kanit';
+			font-size: 23px;
+		}
+		.txtMemnamex5{
+			color: #FFAAAC;
+			font-family: 'kanit';
+			font-size: 23px;
+		}
+			
